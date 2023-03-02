@@ -1,0 +1,28 @@
+{
+  "short_name": "FeSwap",
+  "name": "FeSwap",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/icon"
+    },
+    {
+      "src": "./images/192x192_App_Icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./images/512x512_App_Icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#00A4B8",
+  "background_color": "#fff"
+}
