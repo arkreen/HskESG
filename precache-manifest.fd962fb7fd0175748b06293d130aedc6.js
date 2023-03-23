@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec59f75f14c2dc10c11741f483e7c3fb",
+    "revision": "4cff9ed0eadcb01dfb8249577a930189",
     "url": "./index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/3.4bf6805c.chunk.css"
   },
   {
-    "revision": "8c662904364c0c52daf2",
+    "revision": "06ad46ceb8abaa160f5e",
     "url": "./static/css/main.ff46e246.chunk.css"
   },
   {
@@ -56,16 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/8.6956ee79.chunk.js"
   },
   {
-    "revision": "8c662904364c0c52daf2",
-    "url": "./static/js/main.187e192e.chunk.js"
+    "revision": "06ad46ceb8abaa160f5e",
+    "url": "./static/js/main.cad57e1d.chunk.js"
   },
   {
     "revision": "165baf130c08855f978d",
     "url": "./static/js/runtime-main.54f67070.js"
   },
   {
-    "revision": "e1c75e2c74412ef2f5e69381dc451aa4",
-    "url": "./static/media/Bitmain.e1c75e2c.png"
+    "revision": "6dcfbc0d1065cdc3c38569914c72eaaa",
+    "url": "./static/media/BitOrigin.6dcfbc0d.png"
   },
   {
     "revision": "1b46c2ba61393108c25af6ee2f8815fb",
